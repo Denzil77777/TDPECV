@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Professional CV — Denzil Peiris</title>
+  <style>
+    :root{
+      --bg:#0d1117;
+      --accent:#58a6ff;
+      --accent-2:#f78166;
+      --text:#c9d1d9;
+      --muted:#8b949e;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    *{box-sizing:border-box}
+    body{margin:0;min-height:100vh;background:var(--bg);color:var(--text)}
+
+    .wrap{margin:0;padding:0;width:100%}
+
+    header{background:linear-gradient(90deg, var(--accent), var(--accent-2));color:#fff;padding:50px 20px;text-align:center}
+    header img{width:180px;height:180px;object-fit:cover;border-radius:50%;border:5px solid #fff;box-shadow:0 6px 18px rgba(0,0,0,0.5)}
+    header h1{margin:20px 0 10px;font-size:34px}
+    header p{margin:0;font-weight:600;font-size:18px}
+    header .contact{margin-top:20px;font-size:15px}
+    header .contact a{color:#fff;text-decoration:underline}
+
+    section{padding:40px 20px;max-width:1000px;margin:auto}
+    section h2{margin-top:0;color:var(--accent)}
+
+    .summary{line-height:1.6;margin-top:10px}
+
+    .block{margin-top:30px}
+    .section-title{font-size:15px;font-weight:700;color:var(--accent-2);margin-bottom:10px;text-transform:uppercase;letter-spacing:1px;border-bottom:1px solid var(--muted);padding-bottom:4px}
+
+    .job{padding:16px;border-radius:12px;background:rgba(88,166,255,0.08);margin-bottom:14px}
+    .job h3{margin:0;color:var(--accent)}
+    .job .meta{font-size:13px;color:var(--muted);margin-top:4px}
+    .job ul{margin:10px 0 0 20px;color:var(--text);line-height:1.5}
+
+    .skills{display:flex;flex-wrap:wrap;gap:12px}
+    .skill-pill{padding:10px 16px;border-radius:20px;background:var(--accent);color:#fff;font-weight:600;font-size:13px}
+
+    .projects{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+    .project{padding:16px;border-radius:12px;background:rgba(247,129,102,0.08)}
+    .project strong{color:var(--accent-2)}
+
+    .certificates img{max-width:140px;border-radius:10px;margin:10px;box-shadow:0 4px 12px rgba(0,0,0,0.4)}
+
+    footer{margin:40px auto;text-align:center;color:var(--muted);font-size:14px;max-width:1000px}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <!-- Replace profile.png with your own photo -->
+      <img src="Denzil.jpg" alt="Denzil Peiris">
+      <h1>Denzil Peiris</h1>
+      <p>Senior Product Designer / Front-end Engineer</p>
+      <div class="contact">
+        <div>Vennigen, Germany</div>
+        <div>+49</div>
+        <div><a href="mailto:denzil03211959@gmail.com">denzil03211959@gmail.com</a></div>
+        <div><a href="https://www.linkedin.com/in/denzilpeiris" target="_blank" rel="noopener">LinkedIn Profile</a></div>
+      </div>
+    </header>
+
+    <section>
+      <h2>Professional Summary</h2>
+      <p class="summary">Innovative designer & developer with 8+ years of experience delivering user-centered digital solutions. Skilled in bridging design and code to craft delightful, accessible experiences. Seeking impactful roles in product design and front-end engineering.</p>
+
+      <div class="block">
+        <div class="section-title">Work Experience</div>
+        <div class="job">
+          <h3>Senior Product Designer — ExampleCorp</h3>
+          <div class="meta">2021 – Present • Berlin</div>
+          <ul>
+            <li>Redesigned dashboards serving 2M users, improving task success by 26% and reducing support tickets by 14%.</li>
+            <li>Conducted user research, interviews, and usability testing to inform design decisions.</li>
+            <li>Collaborated with developers to implement a new design system across multiple platforms.</li>
+            <li>Mentored junior designers and interns to improve team efficiency and skills.</li>
+          </ul>
+        </div>
+        <div class="job">
+          <h3>Front-end Engineer — StartupX</h3>
+          <div class="meta">2017 – 2020 • Remote</div>
+          <ul>
+            <li>Created a design system and migrated apps to React/TypeScript, cutting bundle size by 40%.</li>
+            <li>Improved performance of web apps, resulting in 20% faster page loads.</li>
+            <li>Worked closely with product managers and designers to deliver new features on time.</li>
+            <li>Implemented accessibility standards to meet WCAG 2.1 compliance.</li>
+          </ul>
+        </div>
+        <div class="job">
+          <h3>UI/UX Designer — CreativeStudio</h3>
+          <div class="meta">2015 – 2017 • Colombo</div>
+          <ul>
+            <li>Designed websites and mobile apps for clients in retail, healthcare, and finance sectors.</li>
+            <li>Created wireframes, mockups, and interactive prototypes using Figma and Adobe XD.</li>
+            <li>Collaborated with developers to ensure accurate implementation of designs.</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="section-title">Projects</div>
+        <div class="projects">
+          <div class="project"><strong>Analytics Revamp</strong><br>Saved $350k annually through improved workflows.</div>
+          <div class="project"><strong>Mobile Checkout</strong><br>Cut checkout time by 30% and boosted conversions.</div>
+          <div class="project"><strong>Design System</strong><br>Adopted across 12 product teams for consistency.</div>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="section-title">Education</div>
+        <p><strong>MSc Information technology</strong> — University of Liverpool. UK (2017)</p>
+              </div>
+
+      <div class="block">
+        <div class="section-title">Certificates</div>
+        <div class="certificates">
+          <img src="AWS Certified Solutions Architect – Associate.png" alt="AWS SAA 03 Certificate">
+          <img src="AWS Certified Cloud Practitioner.png" alt="AWS CLF02">
+          <img src="Challenge Voyager_15 hands-on labs completed.png" alt="Challenge Voyager - Skill Labs">
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="section-title">Key Skills</div>
+        <div class="skills">
+          <span class="skill-pill">Product Design</span>
+          <span class="skill-pill">UX Research</span>
+          <span class="skill-pill">React</span>
+          <span class="skill-pill">TypeScript</span>
+          <span class="skill-pill">Accessibility</span>
+          <span class="skill-pill">Design Systems</span>
+        </div>
+      </div>
+
+      <div class="block">
+        <div class="section-title">Achievements</div>
+        <ul>
+          <li>Recognized as best Communicator- Air Force Commanders Commendadtion. 1987</li>
+          <li>Recognized for my outstanding performances ny the Ministry of Transportation. Sultanate of Oman.</li>
+          
+        </ul>
+      </div>
+
+      <div class="block">
+        <div class="section-title">Languages</div>
+        <p>English — Fluent</p>
+        <p>German — A2 Proficiency</p>
+      </div>
+    </section>
+
+    <footer>
+      References available upon request • Portfolio: <a href="#" style="color:var(--accent)">denzilportfolio.com</a>
+    </footer>
+  </div>
+</body>
+</html>
