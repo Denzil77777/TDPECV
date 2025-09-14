@@ -87,7 +87,7 @@ All other commands:
 
 C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>
 
-Hoorah!! You have a successful installation of Terraform.  <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e73c4a5-2fca-4511-8513-6f6fe4294d99" />
+Hoorah!! You have a successful installation of Terraform.  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/3e73c4a5-2fca-4511-8513-6f6fe4294d99" />
 
 
 ## Methods / Notes:
