@@ -145,10 +145,6 @@ Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Do
 ### If anyone needs the screen shots for AWS Cloud Front; (This mini Project ) via the AWS Console please do ask.
 
 
-##  License
-
-
-
 ## Additional Resources 📖💡
 
 ​Terraform Documentation: https://www.terraform.io/docs
@@ -180,6 +176,6 @@ Test your changes locally before submitting a PR.
 
 Follow proper commit message conventions.
 
-## Step XX: License
+## License
 
 This project is licensed under the MIT License
