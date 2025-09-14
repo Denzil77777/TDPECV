@@ -149,17 +149,13 @@ Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Do
 
 
 
-## Methods / Notes:
+## Additional Resources 📖💡
 
-You can share this URL with anyone.
+Terraform Documentation 🔗
+AWS CloudFront Documentation 🔗
+GitHub Markdown Guide 🔗
 
-The CloudFront distribution caches your CV globally for faster access.
-
-Update your CV in the S3 bucket to automatically reflect changes through CloudFront.
-
-Step 5: Architecture Overview
-
-This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow:
+This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow TBC
 
 ## Methods / Notes:
 
