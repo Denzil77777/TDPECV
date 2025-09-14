@@ -47,7 +47,7 @@ C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>terraform
 
 
 
-## Step 5: The Results you should see, once you type Terraform and Press Enter key
+##  The Results you should see, once you type Terraform and Press Enter key
 
 The available commands for execution are listed below.
 The primary workflow commands are given first, followed by
@@ -114,15 +114,38 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
 ## Methods / Notes: For those who does not have an AWS Account.
 
-## Methods / Notes: For those who have an AWS Account.
+## Methods / Notes: For those who have an AWS Account. How to install VScode
+
+I am very comfortable in using VSCode. I am confident each one of you have your own editors.
+
+https://code.visualstudio.com/downloadSelect Windows and download.VSCodeUserSetup-x64-1.104.0.exeOne downloaded and saved, you shall see https://code.visualstudio.com/docs/?dv=win64user.The above link explains how to install and configure Visual Code. I would suggest reading and understanding, if you are a first timer, or a novice.On the other hand, locate the folder into which you have downloaded VSCode.Right click on VSCodeUserSetup-x64-1.104.0.ex, Run As Administrator.Once installed, you may see a Visual Code Studio icon on your desktop, click and you should see VSCode (Please see attached image )
+
+Link to Visual Code user Interface; https://www.google.com/search?sca_esv=e4a95c6c96962d75&q=Visual+code+screen&spell=1&sa=X&ved=2ahUKEwiY9M7fyNWPAxUW0wIHHfweGf4QBSgAegQIDxAB&biw=1920&bih=967&dpr=1#vhid=QQO-9g1QE8jgbM&vssid=_mkzFaI7cAv-yi-gPmaHx6QY_44
+
+Link to Visual Studio Code Sidebars; https://code.visualstudio.com/api/ux-guidelines/sidebars. I suggest you may place study and be comfortable with those. I will be very handy down the line.
+
+## How to configure VScode for terraform
+
+ Microsoft VSCode was used as my HTML editor, as much as for creating and destroying IaS, in this  case, AWS Cloud.
+
+I have shared the corresponding HTML file which corresponds to my CV, using AWS  CloudFront.  It can be that in a  CV one does  not present their certificates. I made an extra effort, as you may see. 
+
+The HTML  was first tested on my local computer. C:/denzilCV  then I placed the denzilCV.html and the corresponding images in the same folder. If you may read the HTML file I have referred to the images within the HTML. 
+
+If you are using images like I did, upon executing Terraform init, Terraform fmt, Terraform Plan, and finally Terraform -auto-apply. 
+
+In a layman's way, login to your AWS Console, based on the AWS region you have used, or you are at; in my case eu-central-1. 
+
+From the AWS Console, you may search CloudFront,  Distributions, and you should see something similar like the screenshots I have attached. 
+
+However,  first go to S3, and upload the corresponding images. Please see my screenshot.
+
+Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
 
 
 ##  License
 
 
-
-Once deployment is complete, Terraform will output the CloudFront URL.
-Open this URL in your browser to view your CV.
 
 ## Methods / Notes:
 
