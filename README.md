@@ -19,7 +19,7 @@ It also demonstrates the steps how to manage your Curriculum Vitae, after conver
 - **MS Office / Google Docs** (for CV authoring)  
 - **PDF**  
 
-## <h2 style="color: #FF5733;" Your CV </h2>
+<h2 style="color: #FF5733;" Your CV </h2>
 
 If you have your document (CV) in a .PDF you can use Adobe to convert to HTML using  "Export PDF Tool.  You can have a free trial with Adobe. Howvr the downside is you have to use your credit card,  in a view to obtaion that free 7 days.
 
