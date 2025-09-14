@@ -151,9 +151,9 @@ Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Do
 
 ## Additional Resources 📖💡
 
-Terraform Documentation 🔗
-AWS CloudFront Documentation 🔗
-GitHub Markdown Guide 🔗
+​Terraform Documentation: https://www.terraform.io/docs
+AWS CloudFront Documentation: https://aws.amazon.com/cloudfront/ 
+GitHub Markdown Guide: https://aws.amazon.com/cloudfront/
 
 This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow TBC
 
