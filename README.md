@@ -35,7 +35,9 @@ Alternative  (C) If you have your CV in MS-Word, simply open it in MS-Word, choo
 The steps are for Microsoft Windows 10 Professional.
 
 
-## Methods / Notes for; How to install terraform in windows
+## Methods / Notes for; How to install terraform in windows.
+
+In my case I had created Folder, which as follows, to download Terrafrom. And Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025
 
 How to install terraform in windowshttps://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)  I I am using 7Zip which is a free version. https://www.7-zip.org/Once unzipped, you should see a file; terraform_1.13.2_windows_386Double click and you should see (a) terraform.exe and (b) LICENSE.txtRight click on terraform.exe, Run as Administrator. This will install Terraform in your local, Microsoft Windows machine.In a view to if the installation was successful,  using your Command Prompt, go to the folder into which you had downloaded and then, installed Terraform.  In my case it is; C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>At the Command prompt, type terraform and press Enter key. Now you see the below;
 
@@ -87,35 +89,37 @@ All other commands:
 
 C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>
 
-Hoorah!! You have a successful installation of Terraform.  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/3e73c4a5-2fca-4511-8513-6f6fe4294d99" />
+Hoorah!! You have a successful installation of Terraform.  ✅
+
+## However, now try this to test and configure Terraform in MS- Windows from any given prompt.
+
+From the Command Prompt, Change into a different directory using CD C:/(directory name) 
+Type terraform and press Enter key. Now you not see the results as above) 
+The reason is you have not set the environment variables in MS Windows.
+In a view to achieve that, on the Start (bottom left hand corner) Right Click and choose Run.
+Or from your keyboard, press the Windows Icon (left hand down) , and the letter R from your keyboard, together.
+Type sysdm.cpl
+You should see Windows System Properties ( See attached image)
+Click on Advanced, on the right hand below, you should see  Environment Variables.
+Click on  Environment Variables. (Please see attached image)
+Click on new. (1) For the Variable Name type the path to the exact folder you have downloaded, and extracted,  terraform.exe. Mine is C:\TeraForm_09MAY2025
+Having done so, For the Variable Value, type Terraform
+Click Ok,  Ok and then Ok again.  This  shall exit you  Windows System Properties
+Now in a view to test, from your command prompt, using CD change into any given Folder and Type, Terraform. Now you should see the results as above in our ever first test after installing terraform.
 
 
-## Methods / Notes:
+## How to Configure AWS CLI in Windows, so that Terraform shall make that API to AWS Cloud
 
-S3 Bucket: Stores CV files in PDF, Word, or other formats.
+There are two parts (1) I am hoping you have an AWS Account, and (2) If you do not have an account.
 
-CloudFront Distribution: Delivers your CV globally with low latency.
+## Methods / Notes: For those who does not have an AWS Account.
 
-Terraform: Automates provisioning and deployment.
+## Methods / Notes: For those who have an AWS Account.
 
-Users: Access your CV via the CloudFront URL.
 
-## Step 6: Contributing
+##  License
 
-Contributions, issues, and feature requests are welcome!
-You can fork this repository and submit pull requests.
 
-## Methods / Notes:
-
-Always create a new branch for your changes.
-
-Test your changes locally before submitting a PR.
-
-Follow proper commit message conventions.
-
-## Step 7: License
-
-This project is licensed under the MIT License Step 4: Access Your CV
 
 Once deployment is complete, Terraform will output the CloudFront URL.
 Open this URL in your browser to view your CV.
@@ -142,7 +146,7 @@ Terraform: Automates provisioning and deployment.
 
 Users: Access your CV via the CloudFront URL.
 
-## Step 6: Contributing
+## Step XX: Contributing
 
 Contributions, issues, and feature requests are welcome!
 You can fork this repository and submit pull requests.
@@ -155,6 +159,6 @@ Test your changes locally before submitting a PR.
 
 Follow proper commit message conventions.
 
-## Step 7: License
+## Step XX: License
 
 This project is licensed under the MIT License
