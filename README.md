@@ -157,7 +157,7 @@ GitHub Markdown Guide: https://aws.amazon.com/cloudfront/
 
 This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow TBC
 
-## Methods / Notes:
+## Points To Ponder
 
 S3 Bucket: Stores CV files in PDF, Word, or other formats.
 
