@@ -19,7 +19,7 @@ It also demonstrates the steps how to manage your Curriculum Vitae, after conver
 - **MS Office / Google Docs** (for CV authoring)  
 - **PDF**  
 
-Methods / Notes:
+### Methods / Notes:
 
 This step will create the S3 bucket, CloudFront distribution, and required IAM roles.
 
