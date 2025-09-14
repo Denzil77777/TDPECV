@@ -142,6 +142,8 @@ However,  first go to S3, and upload the corresponding images. Please see my scr
 
 Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
 
+## If anyone needs the screen shots via the AWS Console please do ask.
+
 
 ##  License
 
