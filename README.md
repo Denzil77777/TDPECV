@@ -152,6 +152,7 @@ Follow proper commit message conventions.
 
 This project is licensed under the MIT License
 
+![Visitor Count](https://komarev.com/ghpvc/?Denzil77777=your-Denzil77777&repo=your-TDPECV&color=blue)
 
 
 
