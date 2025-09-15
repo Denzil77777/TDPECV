@@ -118,22 +118,22 @@ Link to Visual Studio Code Sidebars; https://code.visualstudio.com/api/ux-guide
 
 ## Additional Resources 📖💡
 
-​Terraform Documentation: https://www.terraform.io/docs
-AWS CloudFront Documentation: https://aws.amazon.com/cloudfront/ 
-GitHub Markdown Guide: https://aws.amazon.com/cloudfront/
+- Terraform Documentation: https://www.terraform.io/docs
+- AWS CloudFront Documentation: https://aws.amazon.com/cloudfront/ 
+- GitHub Markdown Guide: https://aws.amazon.com/cloudfront/
 
 This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow TBC [<img src="Documants/CV.png" alt="CV" width="200">](Documents/CV.png)
 
 
 ## Points To Ponder
 
-S3 Bucket: Stores CV files in PDF, Word, or other formats.
+- S3 Bucket: Stores CV files in PDF, Word, or other formats.
 
-CloudFront Distribution: Delivers your CV globally with low latency.
+- CloudFront Distribution: Delivers your CV globally with low latency.
 
-Terraform: Automates provisioning and deployment.
+- Terraform: Automates provisioning and deployment.
 
-Users: Access your CV via the CloudFront URL.
+- Users: Access your CV via the CloudFront URL.
 
 ## Step XX: Contributing
 
