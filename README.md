@@ -1,5 +1,7 @@
 # 🚀✨ AWS Cloud Front - Curriculum Vitae
 
+<img src="Documents/Documents/Your_First_Terraform_Installation_Test.png" alt="Logo" width="200" height="200">
+
 This small  IaS; Terraform project shows you how to publish your Curriculum Vitae using **Terraform (IaC)** and **AWS CloudFront**.  
 It also demonstrates the steps how to manage your Curriculum Vitae, after converting into HTML  from MS-Office, Google Docs, PDF and deliver it through AWS services. The aim is to show case the power of Terraform, in combination with other Software and applications. 
 The Power of Terraform means, How to Create and Destroy Infrastructure, using, (in this example ) AWS Cloud Services.
