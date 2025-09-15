@@ -56,7 +56,7 @@ In my case I had created Folder, which as follows, (to download Terrafrom in a s
 
 #  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
 
-Please see the Image; Your_First_Terraform_Installation_Test.png
++ Please see the Image; Your_First_Terraform_Installation_Test.png
 
 Hoorah!! You have a successful installation of Terraform.  ✅
 
@@ -85,7 +85,7 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
 ## Methods / Notes: For those who have an AWS Account. How to install VScode
 
-I am very comfortable in using VSCode. I am confident each one of you have your own editors.
+I am very comfortable in using VSCode. Though I am confident each one of you have your own editors, I suggest you may please use Microsoft VSCode for this Project! 
 
 https://code.visualstudio.com/downloadSelect Windows and download.VSCodeUserSetup-x64-1.104.0.exeOne downloaded and saved, you shall see https://code.visualstudio.com/docs/?dv=win64user.The above link explains how to install and configure Visual Code. I would suggest reading and understanding, if you are a first timer, or a novice.On the other hand, locate the folder into which you have downloaded VSCode.Right click on VSCodeUserSetup-x64-1.104.0.ex, Run As Administrator.Once installed, you may see a Visual Code Studio icon on your desktop, click and you should see VSCode (Please see attached image )
 
