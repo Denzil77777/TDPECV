@@ -1,6 +1,6 @@
 # 🚀✨ AWS Cloud Front - Curriculum Vitae
 
-<img src="Documents/Your_First_Terraform_Installation_Test.png" alt="Terraform_Installation_Test" width="200" height="200">
+[<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="200">](Documents/Terraform_Initial_Test_Results.PNG)
 
 This small  IaS; Terraform project shows you how to publish your Curriculum Vitae using **Terraform (IaC)** and **AWS CloudFront**.  
 It also demonstrates the steps how to manage your Curriculum Vitae, after converting into HTML  from MS-Office, Google Docs, PDF and deliver it through AWS services. The aim is to show case the power of Terraform, in combination with other Software and applications. 
