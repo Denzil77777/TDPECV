@@ -70,16 +70,16 @@ Hoorah!! You have a successful installation of Terraform.  ✅
 - From the Command Prompt, Change into a different directory using CD C:/(directory name) 
 - Type terraform and press Enter key. Now you not see the results as above) 
 - The reason is you have not set the environment variables in MS Windows.
-In a view to achieve that, on the Start (bottom left hand corner) Right Click and choose Run.
-Or from your keyboard, press the Windows Icon (left hand down) , and the letter R from your keyboard, together.
-Type sysdm.cpl
-You should see Windows System Properties ( See attached image)
-Click on Advanced, on the right hand below, you should see  Environment Variables.
-Click on  Environment Variables. (Please see attached image)
-Click on new. (1) For the Variable Name type the path to the exact folder you have downloaded, and extracted,  terraform.exe. Mine is C:\TeraForm_09MAY2025
-Having done so, For the Variable Value, type Terraform
-Click Ok,  Ok and then Ok again.  This  shall exit you  Windows System Properties
-Now in a view to test, from your command prompt, using CD change into any given Folder and Type, Terraform. Now you should see the results as above in our ever first test after installing terraform.
+- In a view to achieve that, on the Start (bottom left hand corner) Right Click and choose Run.
+- Or from your keyboard, press the Windows Icon (left hand down) , and the letter R from your keyboard, together.
+- Type sysdm.cpl
+- You should see Windows System Properties ( See attached image)
+- Click on Advanced, on the right hand below, you should see  Environment Variables.
+- Click on  Environment Variables. (Please see attached image)
+- Click on new. (1) For the Variable Name type the path to the exact folder you have downloaded, and extracted,  terraform.exe. Mine is C:\TeraForm_09MAY2025
+- Having done so, For the Variable Value, type Terraform
+- Click Ok,  Ok and then Ok again.  This  shall exit you  Windows System Properties
+- Now in a view to test, from your command prompt, using CD change into any given Folder and Type, Terraform. Now you should see the results as above in our ever first test after installing terraform.
 
 
 ## How to Configure AWS CLI in Windows, so that Terraform shall make that API to AWS Cloud
