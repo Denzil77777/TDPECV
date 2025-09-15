@@ -13,15 +13,17 @@ I intend to publish a LAMP, QUIZ and few more.
 - Demonstrates the power of **Infrastructure as Code (IaC); Terraform** best practices.  
 - Stores and serves CV in HTML format, letting HR Mansgers access your Curriculum Vitae via the CloudFront URL.
 - AWS Cloud Front - Curriculum Vitae, is easily customizable for personal or professional use.
-- Use Microsoft VSCode you have the freedom to alter my details with yours, in the .html I have  shared with. 
+- Use Microsoft VSCode you have the freedom to alter my details with yours, in the .html I have  shared with.
+- The steps are for Microsoft Windows 10 Professional.
+- I might do same for Linux later. 
 
 ---
 
-## 🛠️ Technologies Used
-- **AWS Services** (CloudFront, S3, IAM)  
-- **Terraform** (for Infrastructure as Code)
-- **Microsoft VSCode** (for Infrastructure as Code)  
-- **MS Office / Google Docs** (in the event your CV is with MS Office and or Google Docs)  
+## 🛠️ Technologies Used - For this Project
+- **AWS Services** (CloudFront, S3, IAM).  
+- **Terraform** (for Infrastructure as Code).
+- **Microsoft VSCode** (for Infrastructure as Code).  
+- **MS Office 365 / Google Docs** (in the event your CV is with MS Office and or Google Docs).  
 - **PDF**  
 
  ## Your  Curriculum Vitae
@@ -33,18 +35,25 @@ They offer you a 14 day trial.
 
 ## The Method I used.
 
-The method I adopted.  You can use Microsoft VS Code to create a HTML, CSS to make it more professional and presentable. I used this approach, since two of my modules (1) Internet and the Multimedia and (2) Programming the Internet for my MSc in 2013, which came handy. The attached image of my CV is self explanatory.
+The method I adopted.  Since I have my CV in Microsoft Word,  and if you too have your CV in .docx formay, you can use MS-Word to open your document and SaveAS MyCV.HTML.
 
-Alternative  (C) If you have your CV in MS-Word, simply open it in MS-Word, choose SaveAs; Viz; MyCV.HTML. A word of advice here, it will give a normal HTML file. No styles, no colours and so on.
+Using the converted file, (HTML file) I have used Microsoft VS Code to create a HTML, CSS to make it more professional and presentable. I used this approach, since two of my modules (1) Internet and the Multimedia and (2) Programming the Internet for my MSc in 2013, which came handy. The attached image of my CV is self explanatory. Or if you like the HTML I have shared you with, you are free to ammed accordingly. I mean your professional experiences, as a Show Case for a HR Manager.
 
-The steps are for Microsoft Windows 10 Professional.
+A word of warning!  Option (C) If you have your CV in MS-Word, simply open it in MS-Word, choose SaveAs; Viz; MyCV.HTML. It will give a normal HTML file. No styles, no colours and so on.
 
 
 ## Methods / Notes for; How to install terraform in windows.
 
-In my case I had created Folder, which as follows, to download Terrafrom. And Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025
+In my case I had created Folder, which as follows, (to download Terrafrom in a seperate Folder). And Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025. Which is my Terraform Folder.
 
-How to install terraform in windowshttps://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)  I I am using 7Zip which is a free version. https://www.7-zip.org/Once unzipped, you should see a file; terraform_1.13.2_windows_386Double click and you should see (a) terraform.exe and (b) LICENSE.txtRight click on terraform.exe, Run as Administrator. This will install Terraform in your local, Microsoft Windows machine.In a view to if the installation was successful,  using your Command Prompt, go to the folder into which you had downloaded and then, installed Terraform.  In my case it is; C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>At the Command prompt, type terraform and press Enter key. Now you see the below;
+How to install terraform in windows; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
+Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)
+Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)
+I am using 7Zip which is a free version. https://www.7-zip.org/
+Once unzipped, you should see a file; terraform_1.13.2_windows_386Double click and you should see (a) terraform.exe and (b) LICENSE.txtRight click on terraform.exe, Run as Administrator. This will install Terraform in your local, Microsoft Windows machine.
+In a view to test, if the installation was successful,  using your Command Prompt, go to the folder where you have Terraform.  In my case it is; C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>
+At the Command prompt: example C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>, type terraform and press Enter key. 
+Now you should see the below;
 
 C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>terraform
 (Usage: terraform [global options] <subcommand> [args])
@@ -52,7 +61,7 @@ C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>terraform
 
 
 
-##  The Results you should see, once you type Terraform and Press Enter key
+##  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>
 
 The available commands for execution are listed below.
 The primary workflow commands are given first, followed by
