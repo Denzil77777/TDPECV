@@ -70,7 +70,7 @@ Hoorah!! You have a successful installation of Terraform.  ✅
 - In a view to achieve that, on the Start (bottom left hand corner) Right Click and choose Run.
 - Or from your keyboard, press the Windows Icon (left hand down) , and the letter R from your keyboard, together.
 - Type sysdm.cpl
-- You should see Windows System Properties ( See attached image)
+- You should see Windows System Properties ( See attached image) 
 - Click on Advanced, on the right hand below, you should see  Environment Variables.
 - Click on  Environment Variables. (Please see attached image)
 - Click on new. (1) For the Variable Name type the path to the exact folder you have downloaded, and extracted,  terraform.exe. Mine is C:\TeraForm_09MAY2025
@@ -97,21 +97,21 @@ Link to Visual Studio Code Sidebars; https://code.visualstudio.com/api/ux-guide
 
 ## How to configure VScode for terraform
 
- Microsoft VSCode was used as my HTML editor, as much as for creating and destroying IaS, in this  case, AWS Cloud.
+ - Microsoft VSCode was used as my HTML editor, as much as for creating and destroying IaS, in this  case, AWS Cloud.
 
-I have shared the corresponding HTML file which corresponds to my CV, using AWS  CloudFront.  It can be that in a  CV one does  not present their certificates. I made an extra effort, as you may see. 
+- I have shared the corresponding HTML file which corresponds to my CV, using AWS  CloudFront.  It can be that in a  CV one does  not present their certificates. I made an extra effort, as you may see. 
 
-The HTML  was first tested on my local computer. C:/denzilCV  then I placed the denzilCV.html and the corresponding images in the same folder. If you may read the HTML file I have referred to the images within the HTML. 
+- The HTML  was first tested on my local computer. C:/denzilCV  then I placed the denzilCV.html and the corresponding images in the same folder. If you may read the HTML file I have referred to the images within the HTML. 
 
-If you are using images like I did, upon executing Terraform init, Terraform fmt, Terraform Plan, and finally Terraform -auto-apply. 
+- If you are using images like I did, upon executing Terraform init, Terraform fmt, Terraform Plan, and finally Terraform -auto-apply. 
 
-In a layman's way, login to your AWS Console, based on the AWS region you have used, or you are at; in my case eu-central-1. 
+- In a layman's way, login to your AWS Console, based on the AWS region you have used, or you are at; in my case eu-central-1. 
 
-From the AWS Console, you may search CloudFront,  Distributions, and you should see something similar like the screenshots I have attached. 
+- From the AWS Console, you may search CloudFront,  Distributions, and you should see something similar like the screenshots I have attached. 
 
-However,  first go to S3, and upload the corresponding images. Please see my screenshot.
+- However,  first go to S3, and upload the corresponding images. Please see my screenshot.
 
-Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
+- Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
 
 ### If anyone needs the screen shots for AWS Cloud Front; (This mini Project ) via the AWS Console please do ask.
 
@@ -122,7 +122,9 @@ Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Do
 AWS CloudFront Documentation: https://aws.amazon.com/cloudfront/ 
 GitHub Markdown Guide: https://aws.amazon.com/cloudfront/
 
-This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow TBC
+This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow TBC [<img src="Documents/CV.png" alt="CV.png" width="300">](Documents/Documents/CV.png.png)
+
+
 
 ## Points To Ponder
 
@@ -153,18 +155,5 @@ This project is licensed under the MIT License
 
 
 
-# AWS Cloud Front - Curriculum Vitae
 
-![Alt text](Documents/Your_First_Terraform_Installation_Test.png)
-
-
-
-
-Here’s a VS:
-
-![Screenshot](Documants/photo1.png)
-
-Here’s a diagram of the Project:
-
-![Diagram](XXX/diagram.jpg)
 
