@@ -44,7 +44,7 @@ A word of warning!  Option (C) If you have your CV in MS-Word, simply open it in
 
 In my case I had created Folder, which as follows, (to download Terrafrom in a seperate Folder). And Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025. Which is my Terraform Folder.
 
-How to install terraform in windows; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
+-- How to install terraform in windows; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
 Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)
 Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)
 I am using 7Zip which is a free version. https://www.7-zip.org/
