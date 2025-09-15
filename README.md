@@ -59,7 +59,7 @@ C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>terraform
 
 
 
-##  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
+#  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
 
 Please see the Image; Your_First_Terraform_Installation_Test.png
 
@@ -67,9 +67,9 @@ Hoorah!! You have a successful installation of Terraform.  ✅
 
 ## However, now try this to test and configure Terraform in MS- Windows from any given prompt.
 
-From the Command Prompt, Change into a different directory using CD C:/(directory name) 
-Type terraform and press Enter key. Now you not see the results as above) 
-The reason is you have not set the environment variables in MS Windows.
+- From the Command Prompt, Change into a different directory using CD C:/(directory name) 
+- Type terraform and press Enter key. Now you not see the results as above) 
+- The reason is you have not set the environment variables in MS Windows.
 In a view to achieve that, on the Start (bottom left hand corner) Right Click and choose Run.
 Or from your keyboard, press the Windows Icon (left hand down) , and the letter R from your keyboard, together.
 Type sysdm.cpl
