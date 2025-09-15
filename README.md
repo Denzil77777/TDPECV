@@ -152,6 +152,9 @@ Follow proper commit message conventions.
 
 This project is licensed under the MIT License
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/your-Denzil77777/TDPECV&title=Visitors)
+
+
 ![Visitor Count](https://komarev.com/ghpvc/?Denzil77777=your-Denzil77777&repo=your-TDPECV&color=blue)
 
 
