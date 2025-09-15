@@ -56,7 +56,7 @@ In my case I had created Folder, which as follows, (to download Terrafrom in a s
 
 #  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
 
-+ Please see the Image; Your_First_Terraform_Installation_Test.png
++ Please see the Image; Your_First_Terraform_Installation_Test.png <img src="Documents/Your_First_Terraform_Installation_Test.png" alt="First Screenshot" width="300">
 
 Hoorah!! You have a successful installation of Terraform.  ✅
 
