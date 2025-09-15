@@ -85,11 +85,11 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
 ## Methods / Notes: For those who does not have an AWS Account.
 
-## Methods / Notes: For those who have an AWS Account. How to install VScode
+## How to install VScode
 
-+ I have found myseld to very  comfortable with VSCode. At the same time, I am confiden, that t each one of you have your own editors. Having said that, I suggest you may please use Microsoft VSCode for this Project! 
++ I have found myseld to be very comfortable with Microsoft VSCode. At the same time, I am confiden, that each one of you have your own editors. Having said that, I suggest you may please use Microsoft VSCode for this Project! 
 
-+ https://code.visualstudio.com/downloadSelect Windows and download.VSCodeUserSetup-x64-1.104.0.exeOne downloaded and saved, you shall see https://code.visualstudio.com/docs/?dv=win64user.The above link explains how to install and configure Visual Code. I would suggest reading and understanding, if you are a first timer, or a novice.
++ Go to (or in a Google Search, type VSCODe) https://code.visualstudio.com/downloadSelect Windows and download.VSCodeUserSetup-x64-1.104.0.exeOne downloaded and saved, you shall see https://code.visualstudio.com/docs/?dv=win64user.The above link explains how to install and configure Visual Code. I would suggest reading and understanding, if you are a first timer, or a novice.
   
 + On the other hand, locate the folder into which you have downloaded VSCode.Right click on VSCodeUserSetup-x64-1.104.0.ex, Run As Administrator. Once installed, you may see a Visual Code Studio icon on your desktop, click and you should see VSCode (Please see attached image)
 
@@ -103,17 +103,21 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
 - I have shared the corresponding HTML file which corresponds to my CV,  which is a part of Terraform, the API for AWS  CloudFront.  It can be that in a  CV one does not present their certificates. I made an extra effort,  on a view to show case. You may disregard that part. 
 
-- The HTML  was first tested on my local computer. C:/denzilCV  then I placed the denzilCV.html and the corresponding images in the same folder. If you may read the HTML file I have referred to the images within the HTML. 
-
+- The HTML  was first tested on my local computer. C:/test_Drive; denzilCV.html  After a successful test, I added the corresponding images into the same folder. If you may read the HTML file I have referred to the images within the HTML. This was te local test.
+ 
 - If you are using images like I did, upon executing Terraform init, Terraform fmt, Terraform Plan, and finally Terraform -auto-apply. 
 
 - In a layman's way, login to your AWS Console, based on the AWS region you have used, or you are at; in my case eu-central-1. 
 
 - From the AWS Console, you may search CloudFront,  Distributions, and you should see something similar like the screenshots I have attached. 
 
-- However,  first go to S3, and upload the corresponding images. Please see my screenshot.
+- For the moment, for this  mini project, you need to  first go to S3, and upload the corresponding images, into S3 creted by Terraform. Please see my screenshot.
 
 - Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
+
+- Here is the way CV is displayed! 
+
+
 
 ### If anyone needs the screen shots for AWS Cloud Front; (This mini Project ) via the AWS Console please do ask.
 
@@ -140,18 +144,12 @@ This project uses Terraform to provision AWS infrastructure. The diagram below i
 
 - Users: Access your CV via the CloudFront URL.
 
-## Step XX: Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 You can fork this repository and submit pull requests.
 
-## Methods / Notes:
 
-Always create a new branch for your changes.
-
-Test your changes locally before submitting a PR.
-
-Follow proper commit message conventions.
 
 ## License
 
