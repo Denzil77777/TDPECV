@@ -21,7 +21,7 @@ I intend to publish a LAMP, QUIZ and few more.
 ## 🛠️ Technologies Used - For this Project
 - **AWS Services** (CloudFront, S3, IAM).  
 - **Terraform** (for Infrastructure as Code).
-- **Microsoft VSCode** (for Infrastructure as Code).  
+- **Microsoft VSCode** (Editor for Infrastructure as Code).  
 - **MS Office 365 / Google Docs** (in the event your CV is with MS Office and or Google Docs).  
 - **PDF**  
 
