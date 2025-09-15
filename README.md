@@ -17,8 +17,6 @@ I intend to publish a LAMP, QUIZ and few more.
 - The steps are for Microsoft Windows 10 Professional.
 - I might do same for Linux later. 
 
----
-
 ## 🛠️ Technologies Used - For this Project
 - **AWS Services** (CloudFront, S3, IAM).  
 - **Terraform** (for Infrastructure as Code).
