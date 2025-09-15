@@ -10,7 +10,7 @@ I intend to publish a LAMP, QUIZ and few more.
 
 ## 🚀 Features
 - Deploys **AWS CloudFront** distribution via Terraform  
-- Demonstrates the power of **Infrastructure as Code (IaC)** best practices  
+- Demonstrates the power of **Infrastructure as Code (IaC); Terraform ** best practices.  
 - Stores and serves CV in multiple formats (Word, PDF, Google Docs link)  
 - Easily customizable for personal or professional use  
 
