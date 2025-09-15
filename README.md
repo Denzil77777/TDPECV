@@ -122,8 +122,7 @@ Link to Visual Studio Code Sidebars; https://code.visualstudio.com/api/ux-guide
 AWS CloudFront Documentation: https://aws.amazon.com/cloudfront/ 
 GitHub Markdown Guide: https://aws.amazon.com/cloudfront/
 
-This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow TBC [<img src="Documents/CV.png" alt="CV.png" width="300">](Documents/Documents/CV.png.png)
-
+This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow TBC [<img src="Documants/CV_.png" alt="CV" width="200">](Documents/CV_.png)
 
 
 ## Points To Ponder
