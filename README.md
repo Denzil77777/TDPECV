@@ -55,9 +55,7 @@ In my case I had created Folder, which as follows, (to download Terrafrom in a s
 
 #  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
 
-+ Please see the Image; Your_First_Terraform_Installation_Test.png
-
-  
++ Please see the Image; Your_First_Terraform_Installation_Test.png 
 
  [<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
 
@@ -129,7 +127,7 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow;
 
 
-[<img src="Documants/CV.png" alt="CV.png" width="200">](Documents/CV.png)
+[<img src="Documents/CV_.png" alt="CV" width="300">](Documents/CV_.png)
 
 
 ## Points To Ponder
