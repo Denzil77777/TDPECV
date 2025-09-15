@@ -154,14 +154,15 @@ This project is licensed under the MIT License
 # AWS Cloud Front - Curriculum Vitae
 
 Here’s the terraform test results:
+![Logo](ocuments/Your_First_Terraform_Installation_Test.png)
 
-Documents/Your_First_Terraform_Installation_Test.png
+
 
 Here’s a VS:
 
 ![Screenshot](Documants/photo1.png)
 
-Here’s a diagram:
+Here’s a diagram of the Project:
 
 ![Diagram](XXX/diagram.jpg)
 
