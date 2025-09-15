@@ -99,7 +99,7 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
  - Microsoft VSCode was used as my HTML editor, as much as for creating and destroying IaS, in this  case, AWS Cloud.
 
-- I have shared the corresponding HTML file which corresponds to my CV, using AWS  CloudFront.  It can be that in a  CV one does  not present their certificates. I made an extra effort, as you may see. 
+- I have shared the corresponding HTML file which corresponds to my CV,  which is a part of Terraform, the API for AWS  CloudFront.  It can be that in a  CV one does not present their certificates. I made an extra effort,  on a view to show case. You may disregard that part. 
 
 - The HTML  was first tested on my local computer. C:/denzilCV  then I placed the denzilCV.html and the corresponding images in the same folder. If you may read the HTML file I have referred to the images within the HTML. 
 
