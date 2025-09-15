@@ -44,19 +44,14 @@ A word of warning!  Option (C) If you have your CV in MS-Word, simply open it in
 
 In my case I had created Folder, which as follows, (to download Terrafrom in a seperate Folder). And Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025. Which is my Terraform Folder.
 
--- How to install terraform in windows; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
-Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)
-Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)
-I am using 7Zip which is a free version. https://www.7-zip.org/
-Once unzipped, you should see a file; terraform_1.13.2_windows_386Double click and you should see (a) terraform.exe and (b) LICENSE.txtRight click on terraform.exe, Run as Administrator. This will install Terraform in your local, Microsoft Windows machine.
-In a view to test, if the installation was successful,  using your Command Prompt, go to the folder where you have Terraform.  In my case it is; C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>
-At the Command prompt: example C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>, type terraform and press Enter key. 
-Now you should see the below;
-
-C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>terraform
-(Usage: terraform [global options] <subcommand> [args])
-
-
+- How to install terraform in windows; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
+- Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)
+- Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)
+-I am using 7Zip which is a free version. https://www.7-zip.org/
+- Once unzipped, you should see a file; terraform_1.13.2_windows_386Double click and you should see (a) terraform.exe and (b) LICENSE.txtRight click on terraform.exe, Run as Administrator. This will install Terraform in your local, Microsoft Windows machine.
+- In a view to test, if the installation was successful,  using your Command Prompt, go to the folder where you have Terraform.  In my case it is; C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>
+- At the Command prompt: example C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>, type terraform and press Enter key. 
+- Now you should see the below;
 
 
 #  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
