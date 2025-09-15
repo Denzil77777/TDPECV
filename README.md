@@ -5,9 +5,7 @@ This small  IaS; Terraform project shows you how to publish your Curriculum Vita
 It also demonstrates the steps how to manage your Curriculum Vitae, after converting into HTML  from MS-Office, Google Docs, PDF and deliver it through AWS services. The aim is to show case the power of Terraform, in combination with other Software and applications. 
 The Power of Terraform means, How to Create and Destroy Infrastructure, using, (in this example ) AWS Cloud Services.
 
-I intend to publish a LAMP, QUIZ and few more.
 
----
 
 ## 🚀 Features
 - Deploys **AWS CloudFront** distribution via Terraform  
