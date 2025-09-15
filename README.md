@@ -57,6 +57,8 @@ In my case I had created Folder, which as follows, (to download Terrafrom in a s
 
 + Please see the Image; Your_First_Terraform_Installation_Test.png
 
+  
+
  [<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
 
 
