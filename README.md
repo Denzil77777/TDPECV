@@ -41,12 +41,23 @@ A word of warning!  In MS-Word, though it gives the facility yo have a Document 
 
 ## Methods / Notes for; How to install terraform in windows.
 
-In my case I had created Folder, which as follows, (to download Terrafrom in a seperate Folder), and Initilally I execuited Terraform, from this command prompt. C** :\TeraForm_09MAY2025. Which is my Terraform Folder.
+In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to to download Terrafrom in a seperate Folder, and Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025. Which is my Terraform Folder.
 
-- How to install terraform in windows; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
+-Link for Terraform; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
+
+[<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
+
+
 - Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)
+
+  [<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
+
 - Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)
--I am using 7Zip which is a free version. https://www.7-zip.org/
+
+[<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
+
+  
+-I am using 7Zip which is a free version. https://www.7-zip.org/ 
 - Once unzipped, you should see a file; terraform_1.13.2_windows_386Double click and you should see (a) terraform.exe and (b) LICENSE.txtRight click on terraform.exe, Run as Administrator. This will install Terraform in your local, Microsoft Windows machine.
 - In a view to test, if the installation was successful,  using your Command Prompt, go to the folder where you have Terraform.  In my case it is; C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>
 - At the Command prompt: example C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>, type terraform and press Enter key. 
