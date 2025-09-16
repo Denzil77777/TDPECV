@@ -1,4 +1,4 @@
-# 🚀✨ AWS Cloud Front - Curriculum Vitae
+# 🚀✨ Terraform - AWS Cloud Front - Curriculum Vitae
 
 
 This small  IaS; Terraform project shows you how to publish your Curriculum Vitae using **Terraform (IaC)** and **AWS CloudFront**.  
