@@ -8,12 +8,12 @@ The Power of Terraform means, how to create and destroy Infrastructure, using, (
 
 
 ## 🚀 Features
-- Deploys **AWS CloudFront** distribution via Terraform  
+- Deploys **AWS CloudFront** distribution via Terraform.  
 - Demonstrates the power of **Infrastructure as Code (IaC); Terraform** best practices.  
 - Stores and serves CV in HTML format, letting HR Mansgers access your Curriculum Vitae via the CloudFront URL.
 - AWS Cloud Front - Curriculum Vitae, is easily customizable for personal or professional use.
-- Use Microsoft VSCode you have the freedom to alter my details with yours, in the .html I have  shared with.
-- The steps are for Microsoft Windows 10 Professional.
+- Use Microsoft VSCode where you have the freedom to alter my details with yours, in the .html which I have I have  shared with.
+- The steps are for Microsoft Windows 10 Professional; Microsoft VSCode was insatalled for, Windows 10 Professional.
 - I might do same for Linux later. 
 
 ## 🛠️ Technologies Used - For this Project
