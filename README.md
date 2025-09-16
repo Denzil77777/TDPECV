@@ -66,7 +66,9 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to to download
 
 ###  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
 
-+ Please see the Image; Your_First_Terraform_Installation_Test.png 
++ Please see the Image; Your_First_Terraform_Installation_Test.png
++ Command Promt; C:\TeraForm_09MAY2025 is where I have had downloaded Terraforn and initiated.
++ Yours should be of your own, a Folder you have  created in C Drive! 
 
  [<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
 
