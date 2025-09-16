@@ -64,7 +64,7 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to to download
 - Now you should see the below;
 
 
-#  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
+##  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
 
 + Please see the Image; Your_First_Terraform_Installation_Test.png 
 
