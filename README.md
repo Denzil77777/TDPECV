@@ -1,4 +1,4 @@
-# 🚀✨ Terraform - AWS Cloud Front - Curriculum Vitae
+ # 🚀✨ Terraform - AWS Cloud Front - Curriculum Vitae
 
 
 This small  IaS; Terraform project shows you how to publish your Curriculum Vitae using **Terraform (IaC)** and **AWS CloudFront**.  
@@ -45,7 +45,7 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to to download
 
 -Link for Terraform; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
 
-[<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
+[<img src="Documents/Install_terraform_For_Windows_as_Per_my_OS_MSWINDOWS10.png" alt="Terraform" width="300">](Documents/Install_terraform_For_Windows_as_Per_my_OS_MSWINDOWS10.png)
 
 
 - Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)
