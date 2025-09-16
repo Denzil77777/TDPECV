@@ -43,9 +43,9 @@ A word of warning!  In MS-Word, though it gives the facility yo have a Document 
 
 In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to to download Terrafrom in a seperate Folder, and Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025. Which is my Terraform Folder.
 
--Link for Terraform; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
+-Link for Terraform; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
-[<img src="Documents/Install_terraform_For_Windows_as_Per_my_OS_MSWINDOWS10.png" alt="Terraform_for_Windows" width="300">](Documents/Install_terraform_For_Windows_as_Per_my_OS_MSWINDOWS10.png)
+[<img src="Documents/Install_terraform_For_Windows_as_Per_my_OS_MSWINDOWS10.png" alt="Terraform_for_Windows" width="200">](Documents/Install_terraform_For_Windows_as_Per_my_OS_MSWINDOWS10.png)
 
 
 - Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)
