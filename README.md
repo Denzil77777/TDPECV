@@ -1,9 +1,9 @@
  # 🚀✨ Terraform - AWS Cloud Front - Curriculum Vitae
 
 
-This small  IaS; Terraform project shows you how to publish your Curriculum Vitae using **Terraform (IaS)** and **AWS CloudFront**.  
-It also demonstrates the steps how to manage your Curriculum Vitae, after converting into HTML  from MS-Office, Google Docs, PDF and deliver it through AWS services. The aim is to show case the power of Terraform, in combination with other Software and applications. 
-The Power of Terraform means, How to Create and Destroy Infrastructure, using, (in this example ) AWS Cloud Services.
+This small  IaC; Terraform project shows you how to publish your Curriculum Vitae using **Terraform (IaC)** and **AWS CloudFront**.  
+It also demonstrates the steps how to manage your Curriculum Vitae, after converting into HTML  from MS-Office, Google Docs, PDF and deliver it through AWS Services. The aim is to showcase the power of Terraform (Ia, in combination with other Software and applications. 
+The Power of Terraform means, how to create and destroy Infrastructure, using, (in this example ) AWS Cloud Services.
 
 
 
