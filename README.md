@@ -32,16 +32,16 @@ They offer you a 14 day trial.
 
 ## The Method I used.
 
-The method I adopted.  Since I have my CV in Microsoft Word,  and if you too have your CV in .docx formay, you can use MS-Word to open your document and SaveAS MyCV.HTML.
+The method I adopted was, since I have my Curriculum Vitae, in Microsoft Word, and if you too have your CV in .docx, you can use MS-Word to open your document and SaveAS, optin  MyCV.HTML. (You may assign a name as you wish).
 
 Using the converted file, (HTML file) I have used Microsoft VS Code to create a HTML, CSS to make it more professional and presentable. I used this approach, since two of my modules (1) Internet and the Multimedia and (2) Programming the Internet for my MSc in 2013, which came handy. The attached image of my CV is self explanatory. Or if you like the HTML I have shared you with, you are free to ammed accordingly. I mean your professional experiences, as a Show Case for a HR Manager.
 
-A word of warning!  Option (C) If you have your CV in MS-Word, simply open it in MS-Word, choose SaveAs; Viz; MyCV.HTML. It will give a normal HTML file. No styles, no colours and so on.
+A word of warning!  In MS-Word, though it gives the facility yo have a Document in HTML, MS-WOrd will generate normal HTML file. No styles, no colours and so on. Not like the one I have produced.
 
 
 ## Methods / Notes for; How to install terraform in windows.
 
-In my case I had created Folder, which as follows, (to download Terrafrom in a seperate Folder). And Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025. Which is my Terraform Folder.
+In my case I had created Folder, which as follows, (to download Terrafrom in a seperate Folder), and Initilally I execuited Terraform, from this command prompt. C** :\TeraForm_09MAY2025. Which is my Terraform Folder.
 
 - How to install terraform in windows; https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli (Screenshot attached)
 - Click on  appropriate zip archive You will be taken here; https://developer.hashicorp.com/terraform/installScroll down to Windows Binary Download. (Screenshot attached)
