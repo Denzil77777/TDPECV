@@ -26,10 +26,9 @@ The Power of Terraform means, how to create and destroy Infrastructure, using, (
 
  ## Your  Curriculum Vitae
 
-If you have your document (CV) in a .PDF you can use Adobe to convert to HTML using  "Export PDF Tool.  You can have a free trial with Adobe. Howvr the downside is you have to use your credit card,  in a view to obtaion that free 7 days.
+If you have your document (CV) in a .PDF you can use Adobe to convert to HTML using "Export PDF Tool. You can have a free trial with Adobe. However, the downside is you have to use your credit card, in a view to obtain that free 7 days.
 
-In order to help you, I searched for options and found; https://app.gonitro.com/
-They offer you a 14 day trial. 
+In order to help you, I searched for options and found; https://app.gonitro.com/ They offer you a 14-day trial.
 
 ## The Method I used.
 
