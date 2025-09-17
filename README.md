@@ -32,16 +32,15 @@ In order to help you, I searched for options and found; https://app.gonitro.com/
 
 ## The Method I used.
 
-The method I adopted was, since I have my Curriculum Vitae, in Microsoft Word, and if you too have your CV in .docx, you can use MS-Word to open your document and SaveAS, optin  MyCV.HTML. (You may assign a name as you wish).
+The method I adopted was, since I have my Curriculum Vitae, in Microsoft Word, and if you too have your CV in .docx, you can use MS-Word to open your document and Save AS, option MyCV.HTML. (You may assign a name as you wish).
+Using the converted file, (HTML file) I have used Microsoft VS Code to create a HTML, CSS to make it more professional and presentable. I used this approach, since two of my modules (1) Internet and the Multimedia and (2) Programming the Internet for my MSc in 2013, which came handy. The attached image of my CV is self-explanatory. Or if you like the HTML, I have shared you with, you are free to armed accordingly. I mean your professional experiences, as a Show Case for a HR Manager.
+A word of warning! In MS-Word, though it gives the facility you have a Document in HTML, MS-Word will generate normal HTML file. No styles, no colours and so on. Not like the one I have produced.
 
-Using the converted file, (HTML file) I have used Microsoft VS Code to create a HTML, CSS to make it more professional and presentable. I used this approach, since two of my modules (1) Internet and the Multimedia and (2) Programming the Internet for my MSc in 2013, which came handy. The attached image of my CV is self explanatory. Or if you like the HTML I have shared you with, you are free to ammed accordingly. I mean your professional experiences, as a Show Case for a HR Manager.
-
-A word of warning!  In MS-Word, though it gives the facility yo have a Document in HTML, MS-WOrd will generate normal HTML file. No styles, no colours and so on. Not like the one I have produced.
 
 
 ## Methods / Notes for; How to install terraform in Microsoft Windows 10 Professional.
 
-In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to to download Terrafrom in a seperate Folder, and Initilally I execuited Terraform, from this command prompt. C:\TeraForm_09MAY2025. Which is my Terraform Folder.
+In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to download Terraform in a separate Folder, and Initially I executed Terraform, from this command prompt. C:\TeraForm_09MAY2025. Which is my Terraform Folder.
 
 - Link for Terraform;https://developer.hashicorp.com/terraform/install#windows
 
