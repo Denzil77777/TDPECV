@@ -151,13 +151,13 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
       <td align="center">
         <a href="Documents/">
           <img src="Documents/Denzil Peiris_CV_Pg1.png" alt="Denzil Peiris_CV_Pg1.png" width="150"><br>
-          Denzil Peiris_CV_Pg1.png
+          Denzil Peiris_CV_Pag 1.png
         </a>
       </td>
       <td align="center">
         <a href="Denzil Peiris_CV_Pg1.png">
           <img src="Documents/Denzil Peiris_CV_Pg2.png" alt="Denzil Peiris_CV_Pg2.png" width="150"><br>
-          Denzil Peiris_CV_Pg2.png
+          Denzil Peiris_CV_Page 2.png
         </a>
       </td>
     </tr>
@@ -165,13 +165,13 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
       <td align="center">
         <a href="Documents/Denzil Peiris_CV_Pg3.png">
           <img src="Documents/Denzil Peiris_CV_Pg3.png" alt="Denzil Peiris_CV_Pg3.png" width="150"><br>
-          Denzil Peiris_CV_Pg3.png.png
+          Denzil Peiris_CV_Page 3.png.png
         </a>
       </td>
       <td align="center">
         <a href="Documents/Denzil Peiris_CV_Pg1.png">
           <img src="Documents/Denzil Peiris_CV_Pg1.png" alt="Denzil Peiris_CV_Pg1.png" width="150"><br>
-          Denzil Peiris_CV_Pg1.png
+          Denzil Peiris_CV_test.png
         </a>
       </td>
     </tr>
