@@ -162,7 +162,6 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 This project uses Terraform to provision AWS infrastructure. The diagram below illustrates the flow;
 
 
-[<img src="Documents/AWS_CloudFront_CV_Architecture.png" alt="AWS_CloudFront_CV_Architecture" width="400">](AWS_CloudFront_CV_Architecture)
 
 
 ## Points To Ponder
