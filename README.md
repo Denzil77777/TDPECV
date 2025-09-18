@@ -53,11 +53,7 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to download Te
 
 - Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zip  Locate the file terraform_1.13.2_windows_386.zip, and unzip. If you have crated a Folder as explained above, or similar, it will be easier to locate your Terrafom Folder.
 
-(Screenshot attached)
-- 
-[<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
-
-  
+ 
 - I am using 7Zip which is a free version. https://www.7-zip.org/
 - Once downloaded you should see a file like ; terraform_1.11.4_windows_386.zip
 - Using 7Zip or other, right click and unzip. I have added an extra folder as WIN, telling WINZIP where to extacty my extracted file. (Pease see screen shot, for your easy reference)
