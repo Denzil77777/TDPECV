@@ -149,6 +149,18 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
  
 [<img src="Documents/Denzil Peiris_CV_Pg1.png " alt="Terraform" width="200">](Documens/Denzil Peiris_CV_Pg1.png)
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 
