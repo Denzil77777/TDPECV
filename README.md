@@ -51,16 +51,16 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to download Te
 
   [<img src="Documents/Windows_Binary_Download.png" alt="Terraform_Windows_Binary" width="200">](Documents/Windows_Binary_Download.png)
 
-- Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)
-
+- Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)
+- 
 [<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
 
   
--I am using 7Zip which is a free version. https://www.7-zip.org/ 
-- Once unzipped, you should see a file; terraform_1.13.2_windows_386Double click and you should see (a) terraform.exe and (b) LICENSE.txtRight click on terraform.exe, Run as Administrator. This will install Terraform in your local, Microsoft Windows machine.
-- In a view to test, if the installation was successful,  using your Command Prompt, go to the folder where you have Terraform.  In my case it is; C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>
-- At the Command prompt: example C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>, type terraform and press Enter key. 
-- Now you should see the below;
+- I am using 7Zip which is a free version. https://www.7-zip.org/
+- Once unzipped, you should see a file; terraform_1.13.2_windows_386Double click and you should see (a) terraform.exe and (b) LICENSE.txt, Right click on terraform.exe, Run as Administrator. This will install Terraform in your local, Microsoft Windows machine.
+- In a view to test, if the installation was successful, using your Command Prompt, go to the folder where you have Terraform.  In my case it 
+- At the Command prompt: example C:\AWS_Projects_MB_13MAY2025\Test_Drive_10SEP2025\T13SEP2025>, type terraform and press Enter key.
+- Now you should see the below;;
 
 
 ###  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
