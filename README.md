@@ -111,7 +111,7 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 [<img src="Documents/Visual_Studio_Code.png" alt="Terraform" width="300">](Documents/Visual_Studio_Code.png)
 
   
-+ Select Windows and download.VSCodeUserSetup-x64-1.104.0.exe
++ Select Windows and download.VSCodeUserSetup-x64-1.104.0.exe, and download.  
 + Once downloaded and saved, you shall see https://code.visualstudio.com/docs/?dv=win64user.
 + The above link explains how to install and configure Visual Code.
 + I would suggest reading and understanding, if you are a first timer, or a novice. I beleive, most of you good men and woman have your skills. 
@@ -119,6 +119,9 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 + Right click on VSCodeUserSetup-x64-1.104.0.ex, Run As Administrator.
 + Once installed, you may see a Visual Code Studio icon on your desktop.
 + click and you should see VSCode (Please see attached image)
+
+[<img src="Documents/Visual_Studio_Code.png" alt="Terraform" width="300">](Documents/Visual_Studio_Code.png)
+
 
 
 
