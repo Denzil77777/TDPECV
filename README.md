@@ -145,7 +145,9 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 - Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
 - Here is the way CV is displayed!
 
-[<img src="Documents/Denzil Peiris_CV_Pg1.png" alt="CV-Page1" width="150">](Documents/Denzil Peiris_CV_Pg1.png)
+<p align="center">
+  <a href="Documents//Denzil Peiris_CV_Pg1.png"><img src="Documents//Denzil Peiris_CV_Pg1.png" alt="CV_page_1" width="150"></a>
+
 
 
 
