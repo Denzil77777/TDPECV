@@ -57,6 +57,9 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to download Te
 - I am using 7Zip which is a free version. https://www.7-zip.org/
 - Once downloaded you should see a file like ; terraform_1.11.4_windows_386.zip
 - Using 7Zip or other, right click and unzip. I have added an extra folder as WIN, telling WINZIP where to extacty my extracted file. (Pease see screen shot, for your easy reference)
+
+[<img src="Documents/Unzipping_Terraform_For_Windows.PNG" alt="Terraform" width="300">](Documens/Unzipping_Terraform_For_Windows.PNG)
+
 - and you should see (a) terraform.exe and (b) LICENSE.txt.
 - Right click on terraform.exe, and chose Run as Administrator.
 - This will install Terraform in your local, Microsoft Windows 10 machine.
@@ -65,7 +68,6 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to download Te
 - At the Command promp, example; TeraForm_09MAY2025, type terraform and press Enter key.
 - Now you should see the below;
   
-[<img src="Documents/Unzipping_Terraform_For_Windows.PNG" alt="Terraform" width="300">](Documens/Unzipping_Terraform_For_Windows.PNG)
 
 ###  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
 
