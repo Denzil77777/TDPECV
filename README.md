@@ -157,7 +157,7 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
       <td align="center">
         <a href="Denzil Peiris_CV_Pg2.png">
           <img src="Documents/Denzil Peiris_CV_Pg2.png" alt="Denzil Peiris_CV_Pg2.png" width="100"><br>
-          Denzil Peiris_CV_Pg3.png
+          Denzil Peiris_CV_Pg2.png
         </a>
       </td>
     </tr>
