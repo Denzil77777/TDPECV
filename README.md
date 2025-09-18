@@ -106,13 +106,16 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
 + I have found myself to be very comfortable with Microsoft VSCode. At the same time, I am confident, that each one of you have your own editors. Having said that, I suggest, you may please use Microsoft VSCode for this Project! 
 
-+ Go to (or in a Google Search, type VSCODe) https://code.visualstudio.com/download.
++ Go to (or in a Google Search, type vscode) https://code.visualstudio.com/download. Someting similar to below image.
+
+[<img src="Documents/Visual_Studio_Code.png" alt="Terraform" width="300">](Documents/Visual_Studio_Code.png)
+
+  
 + Select Windows and download.VSCodeUserSetup-x64-1.104.0.exe
 + Once downloaded and saved, you shall see https://code.visualstudio.com/docs/?dv=win64user.
 + The above link explains how to install and configure Visual Code.
-+ I would suggest reading and understanding, if you are a first timer, or a novice.
-  
-+ On the other hand, locate the folder into which you have downloaded VSCode. I have created a folder in C:/VSCODE
++ I would suggest reading and understanding, if you are a first timer, or a novice. I beleive, most of you good men and woman have your skills. 
++ Now, locate the folder into which you have downloaded VSCode. I have created a folder in C:/VSCODE
 + Right click on VSCodeUserSetup-x64-1.104.0.ex, Run As Administrator.
 + Once installed, you may see a Visual Code Studio icon on your desktop.
 + click and you should see VSCode (Please see attached image)
