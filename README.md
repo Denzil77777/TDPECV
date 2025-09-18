@@ -120,7 +120,7 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 + Once installed, you may see a Visual Code Studio icon on your desktop.
 + click and you should see VSCode (Please see attached image)
 
-[<img src="Documents/Visual_Studio_Code.png" alt="Terraform" width="300">](Documents/Visual_Studio_Code.png)
+[<img src="Documents/Visual_Studio_Code_Page..png" alt="Terraform" width="300">](Documents/Visual_Studio_Code_Page..png)
 
 
 
