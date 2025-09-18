@@ -125,22 +125,19 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
 
 
-+ Link to Visual Code user Interface; https://www.google.com/search?sca_esv=e4a95c6c96962d75&q=Visual+code+screen&spell=1&sa=X&ved=2ahUKEwiY9M7fyNWPAxUW0wIHHfweGf4QBSgAegQIDxAB&biw=1920&bih=967&dpr=1#vhid=QQO-9g1QE8jgbM&vssid=_mkzFaI7cAv-yi-gPmaHx6QY_44
-
-+ Link to Visual Studio Code Sidebars; https://code.visualstudio.com/api/ux-guidelines/sidebars. I suggest you may place study and be comfortable with those. I will be very handy down the line.
++ Valuable link 1; Link to Visual Code user Interface; https://www.google.com/search?sca_esv=e4a95c6c96962d75&q=Visual+code+screen&spell=1&sa=X&ved=2ahUKEwiY9M7fyNWPAxUW0wIHHfweGf4QBSgAegQIDxAB&biw=1920&bih=967&dpr=1#vhid=QQO-9g1QE8jgbM&vssid=_mkzFaI7cAv-yi-gPmaHx6QY_44
++ Valuable link; Link to Visual Studio Code Sidebars; https://code.visualstudio.com/api/ux-guidelines/sidebars. I suggest you may place study and be comfortable with those. I will be very handy down the line.
 
 ## How to configure VScode for terraform
 
- - Microsoft VSCode was used as my HTML editor, as much as for creating and destroying IaS, in this  case, AWS Cloud.
+ - Microsoft VSCode was used as my HTML editor (most do),for creating and destroying IaS, in this  case,  for the infrastructure for AWS Cloud.
 
-- I have shared the corresponding HTML file which corresponds to my CV,  which is a part of Terraform, the API for AWS  CloudFront.  It can be that in a  CV one does not present their certificates. I made an extra effort,  on a view to show case. You may disregard that part. 
-
-- The HTML  was first tested on my local computer. C:/test_Drive; denzilCV.html  After a successful test, I added the corresponding images into the same folder. If you may read the HTML file I have referred to the images within the HTML. This was te local test.
- 
-- If you are using images like I did, upon executing Terraform init, Terraform fmt, Terraform Plan, and finally Terraform -auto-apply. 
-
+- I have shared the corresponding HTML file which corresponds to my CV,  (Valuable link) which is a part of Terraform, the API for AWS  CloudFront.
+- It can be, within a CV one does not present their certificates. I made an extra effort,  in a view to show case. You may disregard that part.
+- The HTML  was first tested on my local computer. C:/test_Drive; denzilCV.html
+- After a successful test, I added the corresponding images into the same folder. If you may read the HTML file I have referred to the images within the HTML. This was a local test. 
+- If you are using images similar to mine, kindly note that,  upon executing Terraform  (i) init, (ii) Terraform fmt, (iii) Terraform Plan, and finally (iv) Terraform -auto-apply.
 - In a layman's way, login to your AWS Console, based on the AWS region you have used, or you are at; in my case eu-central-1. 
-
 - From the AWS Console, you may search CloudFront,  Distributions, and you should see something similar like the screenshots I have attached. 
 
 - For the moment, for this  mini project, you need to  first go to S3, and upload the corresponding images, into S3 creted by Terraform. Please see my screenshot.
