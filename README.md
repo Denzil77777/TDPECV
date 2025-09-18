@@ -51,7 +51,9 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to download Te
 
   [<img src="Documents/Windows_Binary_Download.png" alt="Terraform_Windows_Binary" width="200">](Documents/Windows_Binary_Download.png)
 
-- Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zipLocate the file terraform_1.13.2_windows_386.zip, and unzip.  (Screenshot attached)
+- Click on download, and you shall see a file like; terraform_1.13.2_windows_386.zip  Locate the file terraform_1.13.2_windows_386.zip, and unzip. If you have crated a Folder as explained above, or similar, it will be easier to locate your Terrafom Folder.
+-
+- (Screenshot attached)
 - 
 [<img src="Documents/Terraform_Initial_Test_Results.PNG" alt="Terraform" width="300">](Documents/Terraform_Initial_Test_Results.PNG)
 
