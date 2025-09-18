@@ -156,15 +156,15 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
       </td>
       <td align="center">
         <a href="Denzil Peiris_CV_Pg2.png">
-          <img src="Documents/Denzil Peiris_CV_Pg2.png" alt="Denzil_Peiris_CV_Pg2.png" width="100"><br>
+          <img src="Documents/Denzil Peiris_CV_Pg2.png" alt="Denzil Peiris_CV_Pg2.png" width="100"><br>
           Denzil Peiris_CV_Page Two
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="Documents/Denzil_Peiris_CV_Pg3.png">
-          <img src="Documents/Denzil_Peiris_CV_Pg3.png" alt="Denzil_Peiris_CV_Pg3.png" width="100"><br>
+        <a href="Documents/Denzil Peiris_CV_Pg3.png">
+          <img src="Documents/Denzil Peiris_CV_Pg3.png" alt="Denzil Peiris_CV_Pg3.png" width="100"><br>
           Denzil Peiris_CV_Page Three
         </a>
      </tr>
