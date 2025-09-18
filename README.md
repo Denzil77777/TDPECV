@@ -139,11 +139,11 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 - If you are using images similar to mine, kindly note that,  upon executing Terraform  (i) init, (ii) Terraform fmt, (iii) Terraform Plan, and finally (iv) Terraform -auto-apply.
 - In a layman's way, login to your AWS Console, based on the AWS region you have used, or you are at; in my case eu-central-1. 
 - From the AWS Console, you may search CloudFront,  Distributions, and you should see something similar like the screenshots I have attached. 
-
 - For the moment, for this  mini project, you need to  first go to S3, and upload the corresponding images, into S3 creted by Terraform. Please see my screenshot.
 
-- Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
+[<img src="Documents/CloudFront_Distribute_i.png" alt="Terraform" width="300">](Documents/CloudFront_Distribute_i.png)
 
+- Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
 - Here is the way CV is displayed! 
 
 
