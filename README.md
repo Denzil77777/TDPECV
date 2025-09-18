@@ -60,14 +60,13 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to download Te
 
 [<img src="Documents/Unzipping_Terraform_For_Windows.PNG" alt="Terraform" width="300">](Documens/Unzipping_Terraform_For_Windows.PNG)
 
-- and you should see (a) terraform.exe and (b) LICENSE.txt.
+- Once extracted,  you should see (a) terraform.exe and (b) LICENSE.txt.
 - Right click on terraform.exe, and chose Run as Administrator.
 - This will install Terraform in your local, Microsoft Windows 10 machine.
 - In a view to test, if the installation was successful, using your Command Prompt, go to the folder where you have Terraform.
 - In my case it c:/TeraForm_09MAY2025
 - At the Command promp, example; TeraForm_09MAY2025, type terraform and press Enter key.
-- Now you should see the below;
-  
+ 
 
 ###  The Results you should see, once you type Terraform and Press Enter key at the desired Command Promt; C:\TeraForm_09MAY2025
 
