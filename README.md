@@ -79,7 +79,7 @@ In my case I had created Folder; C:\TeraForm_09MAY2025. In a view to download Te
 
 Hoorah!! You have a successful installation of Terraform.  ✅
 
-## However, now try this to test and configure Terraform in MS- Windows from any given prompt.
+## Please follow the below steps in a view to, test and configure Terraform in MS- Windows from any given prompt.
 
 - From the Command Prompt, Change into a different directory using CD C:/(directory name) 
 - Type terraform and press Enter key. Now you not see the results as above) 
