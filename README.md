@@ -145,12 +145,9 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 - Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
 - Here is the way CV is displayed!
 
-  [<img src="Documents/Denzil Peiris_CV_Pg1.png" alt="Terraform" width="400">](Documents/Denzil Peiris_CV_Pg1.png)
+  [<img src="Documents/Denzil Peiris_CV_Pg1.png" alt="Terraform" width="300">](Documents/Denzil Peiris_CV_Pg1.png)
 
-  [<img src="Documents/Denzil Peiris_CV_Pg2.png" alt="Terraform" width="400">](Documents/Denzil Peiris_CV_Pg2.png.png)
-
-  [<img src="Documents/Denzil Peiris_CV_Pg3.png" alt="Terraform" width="400">](Documents/Denzil Peiris_CV_Pg3.png)
-
+  
 
 
 ### If anyone needs the screen shots for AWS Cloud Front; (This mini Project ) via the AWS Console please do ask.
