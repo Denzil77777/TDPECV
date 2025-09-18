@@ -146,8 +146,6 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 - Here is the way CV is displayed!
 
 [<img src="Documents/Denzil Peiris_CV_Pg1.png" alt="CV-Page1" width="150">](Documents/Denzil Peiris_CV_Pg1.png)
-[<img src="Documents/Denzil Peiris_CV_Pg2.png" alt="CV-Page2" width="150">](Documents/Denzil Peiris_CV_Pg2.png)
-[<img src="Documents/Denzil Peiris_CV_Pg3.png" alt="CV-Page2" width="150">](Documents/Denzil Peiris_CV_Pg3.png)
 
 
 
