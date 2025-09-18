@@ -104,11 +104,20 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
 ## How to install VScode
 
-+ I have found myseld to be very comfortable with Microsoft VSCode. At the same time, I am confiden, that each one of you have your own editors. Having said that, I suggest you may please use Microsoft VSCode for this Project! 
++ I have found myself to be very comfortable with Microsoft VSCode. At the same time, I am confident, that each one of you have your own editors. Having said that, I suggest, you may please use Microsoft VSCode for this Project! 
 
-+ Go to (or in a Google Search, type VSCODe) https://code.visualstudio.com/downloadSelect Windows and download.VSCodeUserSetup-x64-1.104.0.exeOne downloaded and saved, you shall see https://code.visualstudio.com/docs/?dv=win64user.The above link explains how to install and configure Visual Code. I would suggest reading and understanding, if you are a first timer, or a novice.
++ Go to (or in a Google Search, type VSCODe) https://code.visualstudio.com/download.
++ Select Windows and download.VSCodeUserSetup-x64-1.104.0.exe
++ Once downloaded and saved, you shall see https://code.visualstudio.com/docs/?dv=win64user.
++ The above link explains how to install and configure Visual Code.
++ I would suggest reading and understanding, if you are a first timer, or a novice.
   
-+ On the other hand, locate the folder into which you have downloaded VSCode.Right click on VSCodeUserSetup-x64-1.104.0.ex, Run As Administrator. Once installed, you may see a Visual Code Studio icon on your desktop, click and you should see VSCode (Please see attached image)
++ On the other hand, locate the folder into which you have downloaded VSCode. I have created a folder in C:/VSCODE
++ Right click on VSCodeUserSetup-x64-1.104.0.ex, Run As Administrator.
++ Once installed, you may see a Visual Code Studio icon on your desktop.
++ click and you should see VSCode (Please see attached image)
+
+
 
 + Link to Visual Code user Interface; https://www.google.com/search?sca_esv=e4a95c6c96962d75&q=Visual+code+screen&spell=1&sa=X&ved=2ahUKEwiY9M7fyNWPAxUW0wIHHfweGf4QBSgAegQIDxAB&biw=1920&bih=967&dpr=1#vhid=QQO-9g1QE8jgbM&vssid=_mkzFaI7cAv-yi-gPmaHx6QY_44
 
