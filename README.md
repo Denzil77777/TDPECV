@@ -107,7 +107,7 @@ Hoorah!! You have a successful installation of Terraform.  ✅
 - From the AWS CLI install and update instructions, choose Windows. (See the below image.
 
 
-  [<img src="Documents/Instructions_For_MSWindows_to_Install_AWS Command Line Interface.png" alt="Terraform" width="300">](Documents/Instructions_For_MSWindows_to_Install_AWS Command Line Interface.png)
+  [<img src="Documents/Instructions_For_MSWindows.png" alt="Terraform" width="300">](Documents/Instructions_For_MSWindows.png)
 
 
   
