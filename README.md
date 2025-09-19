@@ -190,13 +190,10 @@ This project uses Terraform to provision AWS infrastructure. The diagram below i
 
 ## Points To Ponder
 
-- S3 Bucket: Stores CV files in PDF, Word, or other formats.
-
+-  Terraform: Automates provisioning and deployment.
+-  For this project, Users: Access your CV via the CloudFront URL. A display of AWAS CloudFront. Netflix and others use this AWS Service-  
+- S3 Bucket has been chsen as an AWS Storage to store CV files in PDF, Word,  HTML, CSS, or other formats.
 - CloudFront Distribution: Delivers your CV globally with low latency.
-
-- Terraform: Automates provisioning and deployment.
-
-- Users: Access your CV via the CloudFront URL.
 
 ## Contributing
 
