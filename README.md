@@ -98,24 +98,18 @@ Hoorah!! You have a successful installation of Terraform.  ✅
 
 ## How to Configure AWS CLI in Windows, so that Terraform shall make that API to AWS Cloud.
 
-- In Google type "how to configure aws cli in windows 10" and enter.
+-- Being at Google type "how to configure aws cli in windows 10" and enter.
 - You should see something like; Installing or updating to the latest version of the AWS CLI (See the below image)
-
   [<img src="Documents/How_To_Configure_CLI_For_MSWindows.png" alt="Terraform" width="400">](Documents/How_To_Configure_CLI_For_MSWindows.png)
   
-- You shall see a page with : Installing or updating to the latest version of the AWS CLI
-
-  
+- You shall see a page with : Installing or updating to the latest version of the AWS CLI;
+- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html  
 - From the AWS CLI install and update instructions, choose Windows. (See the below image.
-
   [<img src="Documents/Instructions_For_MSWindows_to_Install_AWS Command Line Interface.png" alt="Terraform" width="400">](Documents/Instructions_For_MSWindows_to_Install_AWS Command Line Interface.png)
+- Please read the instrctions and execute as explained in the Amazon Documents.
+- Many of us read AWS Documents which are well elobotead and upto-date. Hence I have made a reference to AWS Documents.
   
 
-
-
-
-
-There are two parts (1) I am hoping you have an AWS Account, and (2) If you do not have an account.
 
 ## Methods / Notes: For those who does not have an AWS Account.
 
