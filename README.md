@@ -144,6 +144,7 @@ There are two parts (1) I am hoping you have an AWS Account, and (2) If you do n
 
 - Now  being at AWS Cloudfront,  Distributions,  Copy the  link, ( Distribution Domain name) and you should see your wonderful CV!
 - Here is the way CV is displayed!
+- These images are found under Doucuments too.
 
 <p align="center">
   <table>
@@ -203,5 +204,7 @@ You can fork this repository and submit pull requests.
 
 
 ## License
+
+- MIT License
 
 
