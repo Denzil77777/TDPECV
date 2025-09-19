@@ -101,6 +101,8 @@ Hoorah!! You have a successful installation of Terraform.  ✅
 - In Google type "how to configure aws cli in windows 10" and enter.
 - You should see something like; Installing or updating to the latest version of the AWS CLI (See the below image)
 
+  [<img src="Documents/How_To_Configure_CLI_For_MSWindows.png" alt="Terraform" width="300">](Documents/How_To_Configure_CLI_For_MSWindows.png)
+
 
 
   
