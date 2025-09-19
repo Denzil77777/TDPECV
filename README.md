@@ -113,6 +113,10 @@ Hoorah!! You have a successful installation of Terraform.  ✅
 
 ## Methods / Notes: For those who does not have an AWS Account.
 
+- AWS has changed the way they used to offer a free tier.
+- Hence please  visit:  https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=6c30a1ff-c9b3-4adf-bffd-e2aae85e1757&sc_channel=ps&ef_id=Cj0KCQjw_rPGBhCbARIsABjq9cegNP-KiAKHobns3K7SJc0Oks7aCrUgGvfJc64dyuN4thcG9Gn1v2EaAqvWEALw_wcB:G:s&s_kwcid=AL!4422!3!645251220203!p!!g!!amazon%20cloud!19579892539!148952139807&gad_campaignid=19579892539
+- I advise you to read carefully.
+
 ## How to install VScode
 
 + I have found myself to be very comfortable with Microsoft VSCode. At the same time, I am confident, that each one of you have your own editors. Having said that, I suggest, you may please use Microsoft VSCode for this Project! 
