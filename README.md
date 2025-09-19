@@ -96,7 +96,20 @@ Hoorah!! You have a successful installation of Terraform.  ✅
 - Now in a view to test, from your command prompt, using CD change into any given Folder and Type, Terraform. Now you should see the results as above in our ever first test after installing terraform.
 
 
-## How to Configure AWS CLI in Windows, so that Terraform shall make that API to AWS Cloud
+## How to Configure AWS CLI in Windows, so that Terraform shall make that API to AWS Cloud.
+
+- In Google type "how to configure aws cli in windows 10" and enter.
+- You should see something like; Installing or updating to the latest version of the AWS CLI (See the below image)
+
+
+
+  
+- You shall see a page with : Installing or updating to the latest version of the AWS CLI
+- From the AWS CLI install and update instructions, choose Windows. (See the below image.
+
+
+
+
 
 There are two parts (1) I am hoping you have an AWS Account, and (2) If you do not have an account.
 
